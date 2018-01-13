@@ -16,6 +16,6 @@ $ ./run.sh
 
 ## What is meltdown?
 
-Meltdown (CVE-2017-5754) is a hardware vulnerability affecting mordern cpu.
+Meltdown (CVE-2017-5754) is a hardware vulnerability affecting modern cpu.
 
 See https://meltdown.help/
