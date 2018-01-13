@@ -2,13 +2,13 @@
 
 Run meltdwon demos (https://github.com/IAIK/meltdown) on docker.
 
-* build image
+1. build image.
 
 ```
 $ docker build -f alpine-meltdown.dockerfile -t alpine-meltdown .
 ```
 
-* run meltdown
+2. run meltdown demos.
 
 ```
 $ run.sh
