@@ -5,7 +5,7 @@ Run meltdown demos (https://github.com/IAIK/meltdown) on docker.
 1. build image.
 
 ```
-$ docker build -f alpine-meltdown.dockerfile -t alpine-meltdown .
+$ docker build -f alpine-meltdown.dockerfile .
 ```
 
 2. run meltdown demos.
