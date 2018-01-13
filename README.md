@@ -11,7 +11,7 @@ $ docker build -f alpine-meltdown.dockerfile -t alpine-meltdown .
 2. run meltdown demos.
 
 ```
-$ run.sh
+$ ./run.sh
 ```
 
 ## What is meltdown?
