@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.5
 
 RUN apk add --no-cache shadow sudo git build-base util-linux
 
